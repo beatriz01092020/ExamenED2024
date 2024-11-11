@@ -1,0 +1,14 @@
+Instrucciones a seguir para cumplimentar el examen. Las preguntas del examen son las siguientes:
+
+(1 punto) Clona el repositorio que se te ha dado en la siguiente URL --> Si has llegado hasta aquí ya la tienes
+(1 punto) Crea un rama dentro de repositorio cuyo nombre sea tu nombre
+(1 punto) Dentro de esa rama crea un archivo en html que ponga tu nombre como titulo y los comandos como párrafo 
+y un documento con tu nombre codificado dónde la clave debe ser la primera letra de tu apellido (Clave de cifrado)
+https://cifraronline.com/
+(1 punto) Confírmalo con el mensaje “mi primera versión”
+(1 punto) Dentro de esa rama crea otra rama con un archivo que se llame parteDos
+(1 punto) Mira la diferencia entre las ramas
+(1 punto) Fusiona las ramas
+(1 punto) Sube los cambios al repositorio remoto
+(1 punto) Elimina la rama en el local
+(1 punto) Elimina la rama en el remoto
