@@ -3,7 +3,7 @@
 
 int main(){
 
-	printf("Esto es un examen de Entornos de Desarrollo\n");
-	
+	printf("Esto es un examen de la asignatura de Entornos de Desarrollo\n");
+
 	return EXIT_SUCCESS;
 }
